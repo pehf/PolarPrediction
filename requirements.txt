@@ -1,0 +1,11 @@
+--find-links https://download.pytorch.org/whl/cu121/torch_stable.html
+torch==2.1
+torchvision==0.16
+tensorboard==2.14
+plenoptic==1.0
+numpy
+matplotlib
+einops
+tqdm
+Pillow
+av

@@ -1,0 +1,6 @@
+name: ppm
+dependencies:
+  - python=3
+  - pip
+  - pip:
+    - -r requirements.txt

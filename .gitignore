@@ -1,0 +1,34 @@
+# Compiled python modules.
+*.pyc
+
+# Byte-compiled
+__pycache__/
+.cache/
+
+# Poetry, setuptools, PyPI distribution artifacts.
+*.egg-info
+.eggs/
+build/
+dist/
+poetry.lock
+
+# Tests
+.pytest_cache/
+
+# Type checking
+.pytype/
+
+# Other
+*.DS_Store
+
+# vscode
+*.code-workspace
+.vscode
+
+# notebooks
+.ipynb_checkpoints/
+*-jvsc-*
+
+# experiments
+logs/*
+checkpoints/*
